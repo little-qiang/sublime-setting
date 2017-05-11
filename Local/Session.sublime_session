@@ -1,0 +1,2379 @@
+{
+	"folder_history":
+	[
+		"/D/wamp/www/4everbling_offline/web",
+		"/D/wamp/www/micro",
+		"/D/wamp/www/bellelily_offline/dymamic_html",
+		"/D/wamp/www/bellelily_offline/web"
+	],
+	"last_version": 3126,
+	"last_window_id": 136,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 677.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"info",
+						"infoSpu"
+					],
+					[
+						"categor",
+						"$categories〔variable〕"
+					],
+					[
+						"cate",
+						"$cate_3〔variable〕"
+					],
+					[
+						"check",
+						"$checkAblePids〔variable〕"
+					],
+					[
+						"real",
+						"$relation〔variable〕"
+					],
+					[
+						"che",
+						"$checkAblePids〔variable〕"
+					],
+					[
+						"categ",
+						"$categories〔variable〕"
+					],
+					[
+						"wit",
+						"width"
+					],
+					[
+						"bol",
+						"block"
+					],
+					[
+						"lan",
+						"language_id"
+					],
+					[
+						"goods_ca",
+						"goods_cates"
+					],
+					[
+						"site_cate",
+						"site_category_lang"
+					],
+					[
+						"var",
+						"var_export〔function〕"
+					],
+					[
+						"sor",
+						"$sortType〔variable〕"
+					],
+					[
+						"sort",
+						"$sortData〔variable〕"
+					],
+					[
+						"ty",
+						"$type〔variable〕"
+					],
+					[
+						"fi",
+						"$field〔variable〕"
+					],
+					[
+						"get",
+						"getValue〔function〕"
+					],
+					[
+						"url",
+						"urlParams"
+					],
+					[
+						"str",
+						"strParams〔variable〕"
+					],
+					[
+						"A",
+						"ArrayHelper"
+					],
+					[
+						"va",
+						"var_dump"
+					],
+					[
+						"goods",
+						"goods_cate"
+					],
+					[
+						"sele",
+						"selected"
+					],
+					[
+						"json",
+						"$jsonRt〔variable〕"
+					],
+					[
+						"cu",
+						"current"
+					],
+					[
+						"langu",
+						"language_title"
+					],
+					[
+						"language",
+						"language_id"
+					],
+					[
+						"fun",
+						"function〔keyword〕"
+					],
+					[
+						"rig",
+						"rightUrls"
+					],
+					[
+						"pa",
+						"$params〔variable〕"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"imp",
+						"implode〔function〕"
+					],
+					[
+						"tree",
+						"treeNode"
+					],
+					[
+						"func",
+						"$funcFindson〔variable〕"
+					],
+					[
+						"ra",
+						"$rawCate〔variable〕"
+					],
+					[
+						"relea",
+						"releation"
+					],
+					[
+						"array_keys",
+						"array_key_exists〔function〕"
+					],
+					[
+						"resul",
+						"$result〔variable〕"
+					],
+					[
+						"zT",
+						"zTreeStyle"
+					],
+					[
+						"modalGoods",
+						"modalGoodsOtherCate.php"
+					],
+					[
+						"mo",
+						"modalGoodsCate.php"
+					],
+					[
+						"modalGoo",
+						"modalGoodsOtherCate.php"
+					],
+					[
+						"prp",
+						"prop〔function〕"
+					],
+					[
+						"chec",
+						"checked"
+					],
+					[
+						"col",
+						"columns"
+					],
+					[
+						"SiteGoo",
+						"SiteGoodsSpuIntro〔namespace〕"
+					],
+					[
+						"po",
+						"$post〔variable〕"
+					],
+					[
+						"attr_val",
+						"attr_values_checked"
+					],
+					[
+						"attr_va",
+						"$attr_values〔variable〕"
+					],
+					[
+						"sitelist",
+						"sitelist_goods_id"
+					],
+					[
+						"list",
+						"listing_status"
+					],
+					[
+						"godos",
+						"goods_cate"
+					],
+					[
+						"res",
+						"$result〔variable〕"
+					],
+					[
+						"lis",
+						"$listing_status〔variable〕"
+					],
+					[
+						"lsi",
+						"listing_status"
+					],
+					[
+						"mu",
+						"multiple"
+					],
+					[
+						"mdlSi",
+						"$mdlSiteGoodsSpu〔variable〕"
+					],
+					[
+						"bo",
+						"$bool〔variable〕"
+					],
+					[
+						"mdlSite",
+						"$mdlSiteAttr〔variable〕"
+					],
+					[
+						"setA",
+						"setAttributes〔function〕"
+					],
+					[
+						"SiteGoods",
+						"SiteGoodsSpuAttr"
+					],
+					[
+						"paren",
+						"$parent_info〔variable〕"
+					],
+					[
+						"top",
+						"$topic_name〔variable〕"
+					],
+					[
+						"spu",
+						"spu_id"
+					],
+					[
+						"find",
+						"findAll〔function〕"
+					],
+					[
+						"SiteGO",
+						"SiteGoodsSpuCate〔namespace〕"
+					],
+					[
+						"SiteG",
+						"SiteGoodsSpu〔namespace〕"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"var_",
+						"var_export〔function〕"
+					],
+					[
+						"addr",
+						"addr"
+					],
+					[
+						"unse",
+						"unset"
+					],
+					[
+						"consi",
+						"consignee_list"
+					],
+					[
+						"shi",
+						"shippingid"
+					],
+					[
+						"regi",
+						"$regions〔variable〕"
+					],
+					[
+						"address",
+						"address_id"
+					],
+					[
+						"addres",
+						"$address_id〔variable〕"
+					],
+					[
+						"ema",
+						"$email〔variable〕"
+					],
+					[
+						"shipp",
+						"shipping"
+					],
+					[
+						"shipping",
+						"shippingid"
+					],
+					[
+						"stat",
+						"status"
+					],
+					[
+						"cart",
+						"$cart_weight_price〔variable〕"
+					],
+					[
+						"pay",
+						"$payment_list〔variable〕"
+					],
+					[
+						"_s",
+						"$_SESSION〔variable〕"
+					],
+					[
+						"consig",
+						"$consignee〔variable〕"
+					],
+					[
+						"_SE",
+						"$_SESSION〔variable〕"
+					],
+					[
+						"delete",
+						"deleteAll"
+					],
+					[
+						"er",
+						"error"
+					],
+					[
+						"js",
+						"json_encode"
+					],
+					[
+						"actionP",
+						"actionPushCate〔function〕"
+					],
+					[
+						"mdl",
+						"$mdlCate〔variable〕"
+					],
+					[
+						"raw",
+						"$rawData〔variable〕"
+					],
+					[
+						"cat",
+						"catch〔keyword〕"
+					],
+					[
+						"rpc",
+						"$rpc_param〔variable〕"
+					],
+					[
+						"parent",
+						"parent_id"
+					],
+					[
+						"seo_d",
+						"seo_keyword"
+					],
+					[
+						"action",
+						"actionTest1"
+					],
+					[
+						"lab",
+						"$labels〔variable〕"
+					],
+					[
+						"th",
+						"theadTr1"
+					],
+					[
+						"attr",
+						"$attr〔variable〕"
+					],
+					[
+						"size",
+						"$sizeInput〔variable〕"
+					],
+					[
+						"rend",
+						"rendHtmlSize"
+					],
+					[
+						"siz",
+						"$sizeInput〔variable〕"
+					],
+					[
+						"la",
+						"$labels〔variable〕"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"fo",
+						"foreach\tforeach …"
+					],
+					[
+						"val",
+						"values"
+					],
+					[
+						"query",
+						"$query_size_value〔variable〕"
+					],
+					[
+						"array",
+						"array_map"
+					],
+					[
+						"CommSiz",
+						"CommSizeList"
+					],
+					[
+						"quer",
+						"$query_size_attr〔variable〕"
+					],
+					[
+						"ob",
+						"object"
+					],
+					[
+						"par",
+						"$parentCate〔variable〕"
+					],
+					[
+						"Comm",
+						"CommCategory〔namespace〕"
+					],
+					[
+						"pu",
+						"$pushData〔variable〕"
+					],
+					[
+						"is",
+						"isEisxt"
+					],
+					[
+						"tab",
+						"$table〔variable〕"
+					],
+					[
+						"tabe",
+						"tableName"
+					],
+					[
+						"inser",
+						"$insertData〔variable〕"
+					],
+					[
+						"inse",
+						"$insert_sql〔variable〕"
+					],
+					[
+						"site",
+						"$site〔variable〕"
+					],
+					[
+						"Site",
+						"SiteCategoryLang〔namespace〕"
+					],
+					[
+						"Sie",
+						"SiteCategoryLang〔class〕"
+					],
+					[
+						"na",
+						"names"
+					],
+					[
+						"pars",
+						"parseInt〔function〕"
+					],
+					[
+						"btn-add-",
+						"btn-add-skupic"
+					],
+					[
+						"isF",
+						"isFirst〔variable〕"
+					],
+					[
+						"attr_Va",
+						"$attr_value〔variable〕"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 35.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"dele",
+						"ANF: Delete Current File"
+					],
+					[
+						"pagelis",
+						"Package Control: List Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"pagelist",
+						"Package Control: List Packages"
+					],
+					[
+						"dle",
+						"ANF: Delete Current File"
+					],
+					[
+						"rena",
+						"File: Rename"
+					],
+					[
+						"ren",
+						"File: Rename"
+					],
+					[
+						"cop",
+						"ANF: Copy Current File"
+					],
+					[
+						"delete",
+						"ANF: Delete File"
+					],
+					[
+						"pac",
+						"Package Control: List Packages"
+					],
+					[
+						"copy",
+						"ANF: Copy Current File"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pack ins",
+						"Package Control: Install Package"
+					],
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"packlist",
+						"Package Control: List Packages"
+					],
+					[
+						"mo",
+						"File: Move"
+					],
+					[
+						"re",
+						"ANF: Rename File"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"delet",
+						"ANF: Delete Current File"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"mv",
+						"File: Move"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"pagel",
+						"Package Control: List Packages"
+					],
+					[
+						"file",
+						"File: Copy Path"
+					],
+					[
+						"rename",
+						"ANF: Rename File"
+					],
+					[
+						"de",
+						"ANF: Delete File"
+					],
+					[
+						"view",
+						"View: Toggle Side Bar"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"task",
+						"Tasks: New document"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"del\t",
+						"ANF: Delete File"
+					],
+					[
+						"new",
+						"ANF: New File"
+					],
+					[
+						"dee",
+						"ANF: Delete File"
+					],
+					[
+						"int",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"packageli",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 488.0
+			},
+			"console":
+			{
+				"height": 255.0,
+				"history":
+				[
+					"print \"1\"",
+					"print \"1\";",
+					"print 1;",
+					"pwd",
+					"clear",
+					"pwd",
+					"dir",
+					"git -v"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": false,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/wamp/www/dress_aukey_online/application/api/modules/goods/controllers/ListController.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/views/item/skubase.php",
+				"/D/wamp/www/dress_aukey_online/application/api/config/main.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/controllers/ListController.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/views/list/form.php",
+				"/D/wamp/www/dress_aukey_online/application/api/runtime/logs/app.log",
+				"/D/wamp/www/dress_aukey_online/application/backend/web/newStyle/js/category.js",
+				"/D/wamp/www/dress_aukey_online/application/backend/controllers/ItemController.php",
+				"/D/wamp/www/dress_aukey_online/application/api/modules/goods/controllers/GoodsController.php",
+				"/D/wamp/www/dress_aukey_online/vendor/yiisoft/yii2/filters/auth/QueryParamAuth.php",
+				"/D/wamp/www/dress_aukey_online/application/api/modules/goods/controllers/CommCategoryController.php",
+				"/D/wamp/www/dress_aukey_online/vendor/yiisoft/yii2/web/Controller.php",
+				"/D/wamp/www/dress_aukey_online/application/api/web/index.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/controllers/HistoryController.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/views/list/index.php",
+				"/D/wamp/www/dress_aukey_online/application/api/modules/goods/controllers/SiteCategoryLangController.php",
+				"/D/wamp/www/dress_aukey_online/application/api/modules/goods/controllers/ListPushController.php",
+				"/D/wamp/www/dress_aukey_online/application/api/modules/goods/models/SiteGoodsSpu.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/controllers/BaseController.php",
+				"/D/wamp/www/dress_aukey_online/application/api/modules/goods/models/SiteGoodsSku.php",
+				"/D/wamp/www/dress_aukey_online/application/api/modules/goods/models/SiteCategoryLang.php",
+				"/D/wamp/www/dress_aukey_online/vendor/yiisoft/yii2/helpers/BaseUrl.php",
+				"/D/wamp/www/dress_aukey_online/vendor/yiisoft/yii2/web/UrlManager.php",
+				"/D/wamp/www/dress_aukey_online/vendor/yiisoft/yii2/helpers/Url.php",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/D/wamp/www/dress_aukey_online/vendor/yiisoft/yii2/widgets/LinkPager.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/web/newStyle/js/commonUtil.js",
+				"/D/wamp/www/dress_aukey_online/application/backend/web/plugins/bootstrap-multiselect/bootstrap-multiselect.js",
+				"/E/Users/zq/Desktop/前端/plugins/bootstrap-multiselect-master/dist/js/bootstrap-multiselect.js",
+				"/E/Users/zq/Desktop/前端/plugins/bootstrap-multiselect-master/test.html",
+				"/D/wamp/www/dress_aukey_online/application/backend/views/layouts/lte_main.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/web/newStyle/js/index_c.js",
+				"/D/wamp/www/dress_aukey_online/common/config/params.php",
+				"/E/Users/zq/Desktop/100020555610_175822482947.txt",
+				"/D/wamp/www/dress_aukey_online/common/config/main.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/config/main.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/config/main-local.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/controllers/SiteController.php",
+				"/D/wamp/www/dress_aukey_online/vendor/yiisoft/yii2/BaseYii.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/web/index.php",
+				"/D/wamp/www/dress_aukey_online/application/api/config/main-local.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/controllers/ChishiController.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/views/list/form.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/views/item/skubase.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/web/newStyle/js/goods/item.js",
+				"/D/wamp/www/dress-aukey/appaction/backend/views/list/modal/modalGoodsCate.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/views/list/modal/modalGoodsOtherCate.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/controllers/ListController.php",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/controllers/ListController.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/web/newStyle/js/category.js",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/models/SiteGoodsSpu.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/views/list/index.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/views/category/index.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/views/layouts/lte_main.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/models/AdminUser.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/models/BackendUser.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/BaseYii.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/controllers/BaseController.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/web/Controller.php",
+				"/D/wamp/www/dress-aukey/appaction/api/runtime/logs/app.log",
+				"/D/wamp/www/dress-aukey/appaction/backend/views/list/modal/modalSkuImg.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/views/list/modal/modalGallery.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/controllers/ChishiController.php",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/controllers/CommCategoryController.php",
+				"/D/wamp/www/micro/test.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/web/newStyle/js/listing/form.js",
+				"/D/wamp/www/dress-aukey/appaction/backend/web/newStyle/js/categroy.js",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/db/BaseActiveRecord.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/db/ActiveRecord.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/base/Model.php",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/models/SiteGoodsSpuIntro.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/web/Request.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/console/Application.php",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/models/SiteGoodsSpuAttr.php",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/models/SiteGoodsSpuCate.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/web/View.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/base/View.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/base/ViewRenderer.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/web/plugins/bootstrap-multiselect/bootstrap-multiselect.js",
+				"/D/wamp/www/dress-aukey/appaction/backend/web/plugins/bootstrap-multiselect/bootstrap-multiselect.css",
+				"/D/wamp/www/dress-aukey/common/widgets/CommCategoryWidget.php",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/controllers/CommAttrController.php",
+				"/D/wamp/www/dress-aukey/common/config/params.php",
+				"/D/wamp/www/dress-aukey/common/config/params-local.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/rest/ActiveController.php",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/models/SiteGoodsSku.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/runtime/logs/app.log",
+				"/D/wamp/www/dress-aukey/appaction/backend/runtime/logs/app.log.1",
+				"/D/wamp/www/web/web/application/modules/Goods/controllers/Index.php",
+				"/D/wamp/www/web/web/application/modules/Specials/controllers/Promotions.php",
+				"/D/wamp/www/web/web/application/modules/Keywords/controllers/Goodkeywords.php",
+				"/D/wamp/www/web/web/themes/fairyseason/goods/category.tpl",
+				"/D/wamp/www/web/web/themes/fairyseason/goods/search.tpl",
+				"/D/wamp/www/web/web/rewrite.conf",
+				"/D/wamp/www/web/web/themes/fairyseason/news/article.tpl",
+				"/D/wamp/www/web/web/themes/fairyseason/specials/promotions.tpl",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/controllers/SiteCategoryLangController.php",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/controllers/SiteAttrValueLangController.php",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/models/CommSet.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/db/ActiveRecordInterface.php",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/models/Goods.php",
+				"/D/wamp/www/web/web/themes/fairyseason/user/guest/list.tpl",
+				"/D/wamp/www/web/web/application/modules/Checkout/controllers/Guest.php",
+				"/D/wamp/www/web/web/application/modules/User/controllers/Guest.php",
+				"/D/wamp/www/web/web/themes/fairyseason/user/guest/index.tpl",
+				"/D/wamp/www/web/web/themes/fairyseason/user/guest/order_detail.tpl",
+				"/D/wamp/www/web/web/themes/fairyseason/user/guest/track_packages.tpl",
+				"/D/wamp/www/web/web/themes/fairyseason/user/guest/user_paynow.tpl",
+				"/D/wamp/www/web/web/themes/fairyseason/user/order/list.tpl",
+				"/D/wamp/www/web/web/themes/fairyseason/user/order/index.tpl",
+				"/D/wamp/www/web/web/application/modules/Checkout/controllers/Done.php",
+				"/D/wamp/www/web/web/application/modules/Checkout/controllers/Index.php",
+				"/D/wamp/www/web/web/themes/fairyseason/checkout/guest/success.tpl",
+				"/D/wamp/www/web/web/themes/fairyseason/public/js/shopping_flow_guest.js",
+				"/D/wamp/www/web/web/themes/fairyseason/checkout/guest/index.tpl",
+				"/D/wamp/www/web/web/application/modules/User/controllers/Order.php",
+				"/D/wamp/www/web/web/themes/fairyseason/checkout/success.tpl",
+				"/D/wamp/www/web/web/themes/fairyseason/checkout/index.tpl",
+				"/D/wamp/www/web/web/themes/fairyseason/checkout/guest/choise_shipping_address.tpl",
+				"/D/wamp/www/web/web/application/modules/Checkout/controllers/Ajax.php",
+				"/D/wamp/www/web/web/library/M/OrderInfo.php",
+				"/D/wamp/www/web/web/library/M/Shipping.php",
+				"/D/wamp/www/web/web/library/Core/MongoRecord.php",
+				"/D/wamp/www/web/web/themes/fairyseason/cart/index.tpl",
+				"/D/wamp/www/web/web/application/modules/User/controllers/Collection.php",
+				"/D/wamp/www/web/web/library/Core/Controller.php",
+				"/D/wamp/www/web/web/library/Ext/Payment/PaypalEC.php",
+				"/D/wamp/www/web/web/application/modules/Checkout/controllers/Payment.php"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"D:\\wamp\\www\\dress_aukey_online\\application\\api\\modules\\goods\\controllers",
+					"D:\\wamp\\www\\web\\application\\api",
+					"D:\\wamp\\www\\web\\web\\application\\api",
+					"D:\\wamp\\www\\web\\web\\application",
+					"D:\\wamp\\www\\web\\web\\",
+					"D:\\wamp\\www\\web\\web\\application\\controllers",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"main_ca",
+					"main",
+					"categories",
+					"categories_json",
+					"main_cates",
+					"mainCate",
+					"main",
+					"behaviors",
+					"queryData",
+					"cate_id",
+					"name",
+					"getParams",
+					"$row",
+					"checkGoodsCate",
+					"categories_json",
+					"checkNode",
+					"$commSku",
+					"getSpu",
+					"getSku",
+					"CommSpu",
+					"Spu",
+					"getCommSpu",
+					"getSku",
+					"getParams",
+					"price",
+					"var_dump(",
+					"createUrl",
+					"encode",
+					"aria-hidden=\"true\"",
+					"tabindex=\"0\"",
+					"aria-hidden=\"true\"",
+					"转",
+					"multiSelect(",
+					"multiSelect",
+					"get_waiting",
+					"post",
+					"Post",
+					"post",
+					"Post",
+					"post",
+					"());\n",
+					"主图",
+					"制图",
+					"new.css",
+					"simp",
+					"主图",
+					"default",
+					" modify_modules",
+					" width_left",
+					"hide",
+					"other",
+					"init_cate_tree",
+					"goods_other_cate_text",
+					"inlineCheckbox5",
+					"GoodsCate",
+					"modalGoodsCate",
+					"spu_info",
+					"sub-",
+					"font",
+					"new.css",
+					"updateNode",
+					"update",
+					"treeview-menu",
+					"modal-skupic",
+					"size",
+					"site_goods_spu_size_attr",
+					"setOld",
+					"spu_intro_id",
+					"site_goods_spu_intro",
+					"init",
+					"releation",
+					"list",
+					"]);\n",
+					"children",
+					"open",
+					"name",
+					"cateTreeRefresh",
+					"cateTree",
+					"categoryModal1",
+					"sku_id",
+					"site_sku_ids",
+					"sku_ids",
+					"sku_id",
+					"spu_id",
+					"sku_ids",
+					"spu_ids",
+					"checked",
+					"Checked",
+					"checked",
+					"find",
+					"row",
+					"intro",
+					"+i+",
+					"i",
+					"+i+",
+					"or ",
+					"or",
+					"or\\",
+					"or",
+					"or ",
+					"or",
+					"cateSize",
+					"multiselect-native-select",
+					"filter-option",
+					"img",
+					"sel-down",
+					"multiselect-native-select",
+					"img",
+					"png",
+					"search-t",
+					"png",
+					"queryParams",
+					"'',\n",
+					"listing_status",
+					"$listing_status",
+					"listing_status",
+					"offline",
+					"active",
+					"console",
+					"$spu_id",
+					"mdlSiteCate",
+					"setAttributes",
+					"topic",
+					"skuIds",
+					"spuIds",
+					"load",
+					"status",
+					"user/order"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"site_spu_id",
+					"[",
+					"[ ",
+					"paypalInContext",
+					"InContext",
+					"self::$",
+					"self::"
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 219.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"transaction",
+						"dress-aukey\\vendor\\yiisoft\\yii2\\db\\Transaction.php"
+					],
+					[
+						"runaction",
+						"common\\curl\\tests\\_support\\_generated\\UnitTesterActions.php"
+					],
+					[
+						"query",
+						"vendor\\yiisoft\\yii2\\db\\Query.php"
+					],
+					[
+						"products_new",
+						"themes\\efox\\products_new\\index.tpl"
+					],
+					[
+						"if",
+						"library\\Fuc\\Smarty\\insert_fairyseason.php"
+					],
+					[
+						"",
+						"webservice\\protected\\modules\\yar\\rpc\\BuyRpc.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 327.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1497.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"info",
+						"infoSpu"
+					],
+					[
+						"categor",
+						"$categories〔variable〕"
+					],
+					[
+						"cate",
+						"$cate_3〔variable〕"
+					],
+					[
+						"check",
+						"$checkAblePids〔variable〕"
+					],
+					[
+						"real",
+						"$relation〔variable〕"
+					],
+					[
+						"che",
+						"$checkAblePids〔variable〕"
+					],
+					[
+						"categ",
+						"$categories〔variable〕"
+					],
+					[
+						"wit",
+						"width"
+					],
+					[
+						"bol",
+						"block"
+					],
+					[
+						"lan",
+						"language_id"
+					],
+					[
+						"goods_ca",
+						"goods_cates"
+					],
+					[
+						"site_cate",
+						"site_category_lang"
+					],
+					[
+						"var",
+						"var_export〔function〕"
+					],
+					[
+						"sor",
+						"$sortType〔variable〕"
+					],
+					[
+						"sort",
+						"$sortData〔variable〕"
+					],
+					[
+						"ty",
+						"$type〔variable〕"
+					],
+					[
+						"fi",
+						"$field〔variable〕"
+					],
+					[
+						"get",
+						"getValue〔function〕"
+					],
+					[
+						"url",
+						"urlParams"
+					],
+					[
+						"str",
+						"strParams〔variable〕"
+					],
+					[
+						"A",
+						"ArrayHelper"
+					],
+					[
+						"va",
+						"var_dump"
+					],
+					[
+						"goods",
+						"goods_cate"
+					],
+					[
+						"sele",
+						"selected"
+					],
+					[
+						"json",
+						"$jsonRt〔variable〕"
+					],
+					[
+						"cu",
+						"current"
+					],
+					[
+						"langu",
+						"language_title"
+					],
+					[
+						"language",
+						"language_id"
+					],
+					[
+						"fun",
+						"function〔keyword〕"
+					],
+					[
+						"rig",
+						"rightUrls"
+					],
+					[
+						"pa",
+						"$params〔variable〕"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"imp",
+						"implode〔function〕"
+					],
+					[
+						"tree",
+						"treeNode"
+					],
+					[
+						"func",
+						"$funcFindson〔variable〕"
+					],
+					[
+						"ra",
+						"$rawCate〔variable〕"
+					],
+					[
+						"relea",
+						"releation"
+					],
+					[
+						"array_keys",
+						"array_key_exists〔function〕"
+					],
+					[
+						"resul",
+						"$result〔variable〕"
+					],
+					[
+						"zT",
+						"zTreeStyle"
+					],
+					[
+						"modalGoods",
+						"modalGoodsOtherCate.php"
+					],
+					[
+						"mo",
+						"modalGoodsCate.php"
+					],
+					[
+						"modalGoo",
+						"modalGoodsOtherCate.php"
+					],
+					[
+						"prp",
+						"prop〔function〕"
+					],
+					[
+						"chec",
+						"checked"
+					],
+					[
+						"col",
+						"columns"
+					],
+					[
+						"SiteGoo",
+						"SiteGoodsSpuIntro〔namespace〕"
+					],
+					[
+						"po",
+						"$post〔variable〕"
+					],
+					[
+						"attr_val",
+						"attr_values_checked"
+					],
+					[
+						"attr_va",
+						"$attr_values〔variable〕"
+					],
+					[
+						"sitelist",
+						"sitelist_goods_id"
+					],
+					[
+						"list",
+						"listing_status"
+					],
+					[
+						"godos",
+						"goods_cate"
+					],
+					[
+						"res",
+						"$result〔variable〕"
+					],
+					[
+						"lis",
+						"$listing_status〔variable〕"
+					],
+					[
+						"lsi",
+						"listing_status"
+					],
+					[
+						"mu",
+						"multiple"
+					],
+					[
+						"mdlSi",
+						"$mdlSiteGoodsSpu〔variable〕"
+					],
+					[
+						"bo",
+						"$bool〔variable〕"
+					],
+					[
+						"mdlSite",
+						"$mdlSiteAttr〔variable〕"
+					],
+					[
+						"setA",
+						"setAttributes〔function〕"
+					],
+					[
+						"SiteGoods",
+						"SiteGoodsSpuAttr"
+					],
+					[
+						"paren",
+						"$parent_info〔variable〕"
+					],
+					[
+						"top",
+						"$topic_name〔variable〕"
+					],
+					[
+						"spu",
+						"spu_id"
+					],
+					[
+						"find",
+						"findAll〔function〕"
+					],
+					[
+						"SiteGO",
+						"SiteGoodsSpuCate〔namespace〕"
+					],
+					[
+						"SiteG",
+						"SiteGoodsSpu〔namespace〕"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"var_",
+						"var_export〔function〕"
+					],
+					[
+						"addr",
+						"addr"
+					],
+					[
+						"unse",
+						"unset"
+					],
+					[
+						"consi",
+						"consignee_list"
+					],
+					[
+						"shi",
+						"shippingid"
+					],
+					[
+						"regi",
+						"$regions〔variable〕"
+					],
+					[
+						"address",
+						"address_id"
+					],
+					[
+						"addres",
+						"$address_id〔variable〕"
+					],
+					[
+						"ema",
+						"$email〔variable〕"
+					],
+					[
+						"shipp",
+						"shipping"
+					],
+					[
+						"shipping",
+						"shippingid"
+					],
+					[
+						"stat",
+						"status"
+					],
+					[
+						"cart",
+						"$cart_weight_price〔variable〕"
+					],
+					[
+						"pay",
+						"$payment_list〔variable〕"
+					],
+					[
+						"_s",
+						"$_SESSION〔variable〕"
+					],
+					[
+						"consig",
+						"$consignee〔variable〕"
+					],
+					[
+						"_SE",
+						"$_SESSION〔variable〕"
+					],
+					[
+						"delete",
+						"deleteAll"
+					],
+					[
+						"er",
+						"error"
+					],
+					[
+						"js",
+						"json_encode"
+					],
+					[
+						"actionP",
+						"actionPushCate〔function〕"
+					],
+					[
+						"mdl",
+						"$mdlCate〔variable〕"
+					],
+					[
+						"raw",
+						"$rawData〔variable〕"
+					],
+					[
+						"cat",
+						"catch〔keyword〕"
+					],
+					[
+						"rpc",
+						"$rpc_param〔variable〕"
+					],
+					[
+						"parent",
+						"parent_id"
+					],
+					[
+						"seo_d",
+						"seo_keyword"
+					],
+					[
+						"action",
+						"actionTest1"
+					],
+					[
+						"lab",
+						"$labels〔variable〕"
+					],
+					[
+						"th",
+						"theadTr1"
+					],
+					[
+						"attr",
+						"$attr〔variable〕"
+					],
+					[
+						"size",
+						"$sizeInput〔variable〕"
+					],
+					[
+						"rend",
+						"rendHtmlSize"
+					],
+					[
+						"siz",
+						"$sizeInput〔variable〕"
+					],
+					[
+						"la",
+						"$labels〔variable〕"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"fo",
+						"foreach\tforeach …"
+					],
+					[
+						"val",
+						"values"
+					],
+					[
+						"query",
+						"$query_size_value〔variable〕"
+					],
+					[
+						"array",
+						"array_map"
+					],
+					[
+						"CommSiz",
+						"CommSizeList"
+					],
+					[
+						"quer",
+						"$query_size_attr〔variable〕"
+					],
+					[
+						"ob",
+						"object"
+					],
+					[
+						"par",
+						"$parentCate〔variable〕"
+					],
+					[
+						"Comm",
+						"CommCategory〔namespace〕"
+					],
+					[
+						"pu",
+						"$pushData〔variable〕"
+					],
+					[
+						"is",
+						"isEisxt"
+					],
+					[
+						"tab",
+						"$table〔variable〕"
+					],
+					[
+						"tabe",
+						"tableName"
+					],
+					[
+						"inser",
+						"$insertData〔variable〕"
+					],
+					[
+						"inse",
+						"$insert_sql〔variable〕"
+					],
+					[
+						"site",
+						"$site〔variable〕"
+					],
+					[
+						"Site",
+						"SiteCategoryLang〔namespace〕"
+					],
+					[
+						"Sie",
+						"SiteCategoryLang〔class〕"
+					],
+					[
+						"na",
+						"names"
+					],
+					[
+						"pars",
+						"parseInt〔function〕"
+					],
+					[
+						"btn-add-",
+						"btn-add-skupic"
+					],
+					[
+						"isF",
+						"isFirst〔variable〕"
+					],
+					[
+						"attr_Va",
+						"$attr_value〔variable〕"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Windows/System32/drivers/etc/hosts",
+					"settings":
+					{
+						"buffer_size": 1071,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/wamp/www/dress_aukey_online/application/api/modules/goods/controllers/CommAttrValueCateController.php",
+					"settings":
+					{
+						"buffer_size": 6273,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "pack",
+				"selected_items":
+				[
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"box",
+						"Boxy Theme: Activation"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Activation"
+					],
+					[
+						"pagli",
+						"Package Control: List Packages"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"page",
+						"Package Control: Remove Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"dele",
+						"ANF: Delete Current File"
+					],
+					[
+						"pagelis",
+						"Package Control: List Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"pagelist",
+						"Package Control: List Packages"
+					],
+					[
+						"dle",
+						"ANF: Delete Current File"
+					],
+					[
+						"rena",
+						"File: Rename"
+					],
+					[
+						"ren",
+						"File: Rename"
+					],
+					[
+						"cop",
+						"ANF: Copy Current File"
+					],
+					[
+						"delete",
+						"ANF: Delete File"
+					],
+					[
+						"pac",
+						"Package Control: List Packages"
+					],
+					[
+						"copy",
+						"ANF: Copy Current File"
+					],
+					[
+						"pack ins",
+						"Package Control: Install Package"
+					],
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"packlist",
+						"Package Control: List Packages"
+					],
+					[
+						"mo",
+						"File: Move"
+					],
+					[
+						"re",
+						"ANF: Rename File"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"delet",
+						"ANF: Delete Current File"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"mv",
+						"File: Move"
+					],
+					[
+						"pagel",
+						"Package Control: List Packages"
+					],
+					[
+						"file",
+						"File: Copy Path"
+					],
+					[
+						"rename",
+						"ANF: Rename File"
+					],
+					[
+						"de",
+						"ANF: Delete File"
+					],
+					[
+						"view",
+						"View: Toggle Side Bar"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"task",
+						"Tasks: New document"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"del\t",
+						"ANF: Delete File"
+					],
+					[
+						"new",
+						"ANF: New File"
+					],
+					[
+						"dee",
+						"ANF: Delete File"
+					],
+					[
+						"int",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"packageli",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 488.0
+			},
+			"console":
+			{
+				"height": 255.0,
+				"history":
+				[
+					"print \"1\"",
+					"print \"1\";",
+					"print 1;",
+					"pwd",
+					"clear",
+					"pwd",
+					"dir",
+					"git -v"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": false,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/wamp/www/dress_aukey_online",
+				"/D/wamp/www/dress_aukey_online/application",
+				"/D/wamp/www/dress_aukey_online/application/api",
+				"/D/wamp/www/dress_aukey_online/application/api/config",
+				"/D/wamp/www/dress_aukey_online/application/api/controllers",
+				"/D/wamp/www/dress_aukey_online/application/api/modules",
+				"/D/wamp/www/dress_aukey_online/application/api/modules/goods",
+				"/D/wamp/www/dress_aukey_online/application/api/modules/goods/controllers",
+				"/D/wamp/www/dress_aukey_online/application/api/runtime",
+				"/D/wamp/www/dress_aukey_online/application/api/runtime/logs",
+				"/D/wamp/www/dress_aukey_online/application/backend",
+				"/D/wamp/www/dress_aukey_online/application/backend/controllers",
+				"/D/wamp/www/dress_aukey_online/application/backend/views",
+				"/D/wamp/www/dress_aukey_online/application/backend/views/list",
+				"/D/wamp/www/dress_aukey_online/application/backend/web",
+				"/D/wamp/www/dress_aukey_online/application/backend/web/fonts",
+				"/D/wamp/www/dress_aukey_online/application/backend/web/newStyle",
+				"/D/wamp/www/dress_aukey_online/application/backend/web/newStyle/js"
+			],
+			"file_history":
+			[
+				"/C/Users/zq/AppData/Local/atom/atom.exe",
+				"/D/wamp/bin/apache/apache2.4.17/bin/php.ini",
+				"/D/wamp/www/dress_aukey_online/application/api/modules/goods/controllers/CommCategoryController.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/controllers/ItemController.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/controllers/ListController.php",
+				"/C/Users/zq/AppData/Roaming/Sublime Text 3/Packages/SyncedSideBar/SyncedSideBar.sublime-settings",
+				"/D/wamp/www/dress_aukey_online/application/api/modules/goods/controllers/ListController.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/views/item/skubase.php",
+				"/D/wamp/www/dress_aukey_online/application/api/config/main.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/views/list/form.php",
+				"/D/wamp/www/dress_aukey_online/application/api/runtime/logs/app.log",
+				"/D/wamp/www/dress_aukey_online/application/backend/web/newStyle/js/category.js",
+				"/D/wamp/www/dress_aukey_online/application/api/modules/goods/controllers/GoodsController.php",
+				"/D/wamp/www/dress_aukey_online/vendor/yiisoft/yii2/filters/auth/QueryParamAuth.php",
+				"/D/wamp/www/dress_aukey_online/vendor/yiisoft/yii2/web/Controller.php",
+				"/D/wamp/www/dress_aukey_online/application/api/web/index.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/controllers/HistoryController.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/views/list/index.php",
+				"/D/wamp/www/dress_aukey_online/application/api/modules/goods/controllers/SiteCategoryLangController.php",
+				"/D/wamp/www/dress_aukey_online/application/api/modules/goods/controllers/ListPushController.php",
+				"/D/wamp/www/dress_aukey_online/application/api/modules/goods/models/SiteGoodsSpu.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/controllers/BaseController.php",
+				"/D/wamp/www/dress_aukey_online/application/api/modules/goods/models/SiteGoodsSku.php",
+				"/D/wamp/www/dress_aukey_online/application/api/modules/goods/models/SiteCategoryLang.php",
+				"/D/wamp/www/dress_aukey_online/vendor/yiisoft/yii2/helpers/BaseUrl.php",
+				"/D/wamp/www/dress_aukey_online/vendor/yiisoft/yii2/web/UrlManager.php",
+				"/D/wamp/www/dress_aukey_online/vendor/yiisoft/yii2/helpers/Url.php",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/D/wamp/www/dress_aukey_online/vendor/yiisoft/yii2/widgets/LinkPager.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/web/newStyle/js/commonUtil.js",
+				"/D/wamp/www/dress_aukey_online/application/backend/web/plugins/bootstrap-multiselect/bootstrap-multiselect.js",
+				"/E/Users/zq/Desktop/前端/plugins/bootstrap-multiselect-master/dist/js/bootstrap-multiselect.js",
+				"/E/Users/zq/Desktop/前端/plugins/bootstrap-multiselect-master/test.html",
+				"/D/wamp/www/dress_aukey_online/application/backend/views/layouts/lte_main.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/web/newStyle/js/index_c.js",
+				"/D/wamp/www/dress_aukey_online/common/config/params.php",
+				"/E/Users/zq/Desktop/100020555610_175822482947.txt",
+				"/D/wamp/www/dress_aukey_online/common/config/main.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/config/main.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/config/main-local.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/controllers/SiteController.php",
+				"/D/wamp/www/dress_aukey_online/vendor/yiisoft/yii2/BaseYii.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/web/index.php",
+				"/D/wamp/www/dress_aukey_online/application/api/config/main-local.php",
+				"/D/wamp/www/dress_aukey_online/application/backend/controllers/ChishiController.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/views/list/form.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/views/item/skubase.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/web/newStyle/js/goods/item.js",
+				"/D/wamp/www/dress-aukey/appaction/backend/views/list/modal/modalGoodsCate.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/views/list/modal/modalGoodsOtherCate.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/controllers/ListController.php",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/controllers/ListController.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/web/newStyle/js/category.js",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/models/SiteGoodsSpu.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/views/list/index.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/views/category/index.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/views/layouts/lte_main.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/models/AdminUser.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/models/BackendUser.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/BaseYii.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/controllers/BaseController.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/web/Controller.php",
+				"/D/wamp/www/dress-aukey/appaction/api/runtime/logs/app.log",
+				"/D/wamp/www/dress-aukey/appaction/backend/views/list/modal/modalSkuImg.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/views/list/modal/modalGallery.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/controllers/ChishiController.php",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/controllers/CommCategoryController.php",
+				"/D/wamp/www/micro/test.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/web/newStyle/js/listing/form.js",
+				"/D/wamp/www/dress-aukey/appaction/backend/web/newStyle/js/categroy.js",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/db/BaseActiveRecord.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/db/ActiveRecord.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/base/Model.php",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/models/SiteGoodsSpuIntro.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/web/Request.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/console/Application.php",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/models/SiteGoodsSpuAttr.php",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/models/SiteGoodsSpuCate.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/web/View.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/base/View.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/base/ViewRenderer.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/web/plugins/bootstrap-multiselect/bootstrap-multiselect.js",
+				"/D/wamp/www/dress-aukey/appaction/backend/web/plugins/bootstrap-multiselect/bootstrap-multiselect.css",
+				"/D/wamp/www/dress-aukey/common/widgets/CommCategoryWidget.php",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/controllers/CommAttrController.php",
+				"/D/wamp/www/dress-aukey/common/config/params.php",
+				"/D/wamp/www/dress-aukey/common/config/params-local.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/rest/ActiveController.php",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/models/SiteGoodsSku.php",
+				"/D/wamp/www/dress-aukey/appaction/backend/runtime/logs/app.log",
+				"/D/wamp/www/dress-aukey/appaction/backend/runtime/logs/app.log.1",
+				"/D/wamp/www/web/web/application/modules/Goods/controllers/Index.php",
+				"/D/wamp/www/web/web/application/modules/Specials/controllers/Promotions.php",
+				"/D/wamp/www/web/web/application/modules/Keywords/controllers/Goodkeywords.php",
+				"/D/wamp/www/web/web/themes/fairyseason/goods/category.tpl",
+				"/D/wamp/www/web/web/themes/fairyseason/goods/search.tpl",
+				"/D/wamp/www/web/web/rewrite.conf",
+				"/D/wamp/www/web/web/themes/fairyseason/news/article.tpl",
+				"/D/wamp/www/web/web/themes/fairyseason/specials/promotions.tpl",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/controllers/SiteCategoryLangController.php",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/controllers/SiteAttrValueLangController.php",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/models/CommSet.php",
+				"/D/wamp/www/dress-aukey/vendor/yiisoft/yii2/db/ActiveRecordInterface.php",
+				"/D/wamp/www/dress-aukey/appaction/api/modules/goods/models/Goods.php",
+				"/D/wamp/www/web/web/themes/fairyseason/user/guest/list.tpl",
+				"/D/wamp/www/web/web/application/modules/Checkout/controllers/Guest.php",
+				"/D/wamp/www/web/web/application/modules/User/controllers/Guest.php",
+				"/D/wamp/www/web/web/themes/fairyseason/user/guest/index.tpl",
+				"/D/wamp/www/web/web/themes/fairyseason/user/guest/order_detail.tpl",
+				"/D/wamp/www/web/web/themes/fairyseason/user/guest/track_packages.tpl",
+				"/D/wamp/www/web/web/themes/fairyseason/user/guest/user_paynow.tpl",
+				"/D/wamp/www/web/web/themes/fairyseason/user/order/list.tpl",
+				"/D/wamp/www/web/web/themes/fairyseason/user/order/index.tpl",
+				"/D/wamp/www/web/web/application/modules/Checkout/controllers/Done.php",
+				"/D/wamp/www/web/web/application/modules/Checkout/controllers/Index.php",
+				"/D/wamp/www/web/web/themes/fairyseason/checkout/guest/success.tpl",
+				"/D/wamp/www/web/web/themes/fairyseason/public/js/shopping_flow_guest.js",
+				"/D/wamp/www/web/web/themes/fairyseason/checkout/guest/index.tpl",
+				"/D/wamp/www/web/web/application/modules/User/controllers/Order.php",
+				"/D/wamp/www/web/web/themes/fairyseason/checkout/success.tpl",
+				"/D/wamp/www/web/web/themes/fairyseason/checkout/index.tpl",
+				"/D/wamp/www/web/web/themes/fairyseason/checkout/guest/choise_shipping_address.tpl",
+				"/D/wamp/www/web/web/application/modules/Checkout/controllers/Ajax.php",
+				"/D/wamp/www/web/web/library/M/OrderInfo.php",
+				"/D/wamp/www/web/web/library/M/Shipping.php",
+				"/D/wamp/www/web/web/library/Core/MongoRecord.php",
+				"/D/wamp/www/web/web/themes/fairyseason/cart/index.tpl",
+				"/D/wamp/www/web/web/application/modules/User/controllers/Collection.php"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"D:\\wamp\\www\\dress_aukey_online\\application\\api\\modules\\goods\\controllers",
+					"D:\\wamp\\www\\web\\application\\api",
+					"D:\\wamp\\www\\web\\web\\application\\api",
+					"D:\\wamp\\www\\web\\web\\application",
+					"D:\\wamp\\www\\web\\web\\",
+					"D:\\wamp\\www\\web\\web\\application\\controllers",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"post",
+					"main_ca",
+					"main",
+					"categories",
+					"categories_json",
+					"main_cates",
+					"mainCate",
+					"main",
+					"behaviors",
+					"queryData",
+					"cate_id",
+					"name",
+					"getParams",
+					"$row",
+					"checkGoodsCate",
+					"categories_json",
+					"checkNode",
+					"$commSku",
+					"getSpu",
+					"getSku",
+					"CommSpu",
+					"Spu",
+					"getCommSpu",
+					"getSku",
+					"getParams",
+					"price",
+					"var_dump(",
+					"createUrl",
+					"encode",
+					"aria-hidden=\"true\"",
+					"tabindex=\"0\"",
+					"aria-hidden=\"true\"",
+					"转",
+					"multiSelect(",
+					"multiSelect",
+					"get_waiting",
+					"post",
+					"Post",
+					"post",
+					"Post",
+					"post",
+					"());\n",
+					"主图",
+					"制图",
+					"new.css",
+					"simp",
+					"主图",
+					"default",
+					" modify_modules",
+					" width_left",
+					"hide",
+					"other",
+					"init_cate_tree",
+					"goods_other_cate_text",
+					"inlineCheckbox5",
+					"GoodsCate",
+					"modalGoodsCate",
+					"spu_info",
+					"sub-",
+					"font",
+					"new.css",
+					"updateNode",
+					"update",
+					"treeview-menu",
+					"modal-skupic",
+					"size",
+					"site_goods_spu_size_attr",
+					"setOld",
+					"spu_intro_id",
+					"site_goods_spu_intro",
+					"init",
+					"releation",
+					"list",
+					"]);\n",
+					"children",
+					"open",
+					"name",
+					"cateTreeRefresh",
+					"cateTree",
+					"categoryModal1",
+					"sku_id",
+					"site_sku_ids",
+					"sku_ids",
+					"sku_id",
+					"spu_id",
+					"sku_ids",
+					"spu_ids",
+					"checked",
+					"Checked",
+					"checked",
+					"find",
+					"row",
+					"intro",
+					"+i+",
+					"i",
+					"+i+",
+					"or ",
+					"or",
+					"or\\",
+					"or",
+					"or ",
+					"or",
+					"cateSize",
+					"multiselect-native-select",
+					"filter-option",
+					"img",
+					"sel-down",
+					"multiselect-native-select",
+					"img",
+					"png",
+					"search-t",
+					"png",
+					"queryParams",
+					"'',\n",
+					"listing_status",
+					"$listing_status",
+					"listing_status",
+					"offline",
+					"active",
+					"console",
+					"$spu_id",
+					"mdlSiteCate",
+					"setAttributes",
+					"topic",
+					"skuIds",
+					"spuIds",
+					"load",
+					"status"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"site_spu_id",
+					"[",
+					"[ ",
+					"paypalInContext",
+					"InContext",
+					"self::$",
+					"self::"
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": false
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Windows/System32/drivers/etc/hosts",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1071,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										604,
+										604
+									]
+								],
+								"settings":
+								{
+									"colorcode": true,
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/wamp/www/dress_aukey_online/application/api/modules/goods/controllers/CommAttrValueCateController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6273,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										831,
+										831
+									]
+								],
+								"settings":
+								{
+									"colorcode": true,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 79.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 219.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,892,156,156,1669",
+			"project": "online-aukey.sublime-project",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"transaction",
+						"dress-aukey\\vendor\\yiisoft\\yii2\\db\\Transaction.php"
+					],
+					[
+						"runaction",
+						"common\\curl\\tests\\_support\\_generated\\UnitTesterActions.php"
+					],
+					[
+						"query",
+						"vendor\\yiisoft\\yii2\\db\\Query.php"
+					],
+					[
+						"products_new",
+						"themes\\efox\\products_new\\index.tpl"
+					],
+					[
+						"if",
+						"library\\Fuc\\Smarty\\insert_fairyseason.php"
+					],
+					[
+						"",
+						"webservice\\protected\\modules\\yar\\rpc\\BuyRpc.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 372.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 135,
+			"workspace_name": "/E/Users/zq/Documents/Sublime Projects/online-aukey.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/E/Users/zq/Documents/Sublime Projects/online-aukey.sublime-workspace",
+			"/E/Users/zq/Documents/Sublime Projects/offline-4everblins.sublime-workspace",
+			"/E/Users/zq/Documents/Sublime Projects/offline-bellelily.sublime-workspace",
+			"/E/Users/zq/Documents/Sublime Projects/offline-fairyseason.sublime-workspace",
+			"/E/Users/zq/Documents/Sublime Projects/micro.sublime-workspace",
+			"/E/Users/zq/Documents/Sublime Projects/offline-belly.sublime-workspace",
+			"/E/Users/zq/Documents/Sublime Projects/scriptCheckUserCartOrderTime.sublime-workspace"
+		]
+	}
+}

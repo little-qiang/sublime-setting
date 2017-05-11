@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+1"], "command": "alignment" },
+	{ "keys": ["alt+l"], "command": "svn_log" },
+    { "keys": ["ctrl+t"], "command": "open_terminal_project_folder" }
+]
